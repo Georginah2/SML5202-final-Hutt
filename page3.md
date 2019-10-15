@@ -5,3 +5,12 @@
   <dd> Accessed on 15<sup>th</sup> October 2019</dd>
 
 </dl>
+<br>
+<h1> Table of common verbs in French </h1>
+<table> 
+  <li lang="fr">
+  <tr> <th> Infinitif </th><th> Passé composé </th> <th> Futur </th>
+    <tr> <td> avoir </td> <td> J'ai eu </td> <td> J'aurai </td> </tr>
+    <tr> <td> être </td> <td> J'ai été </td> <td> Je serai </td> </tr>
+    <tr> <td> aller </td> <td> Je suis allé(e) </td> <td> J'irai </td> </tr>
+ </table>
