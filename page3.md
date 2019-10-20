@@ -10,7 +10,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/39/Europe_biogeography_cou
 <br>
 <h1> Table of common verbs in French </h1>
 <table> 
-  <lang="fr">
+
   <tr> <th> Infinitif </th><th> Passé composé </th> <th> Futur </th>
     <tr> <td> avoir </td> <td> J'ai eu </td> <td> J'aurai </td> </tr>
     <tr> <td> être </td> <td> J'ai été </td> <td> Je serai </td> </tr>
