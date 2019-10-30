@@ -9,6 +9,8 @@
 <p id="demo2"> </p>
 
 <body>
+  
+<script>
 
 function makeSentence() {
 var person = {
@@ -29,8 +31,6 @@ text += name + " " + verb + " " +adv +"<br>";
 
 document.getElementById("demo2").innerHTML = text;
 }
-
-
 }
 
 </script>
