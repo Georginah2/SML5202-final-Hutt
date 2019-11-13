@@ -1,1 +1,1 @@
-<h1> exercises </h1>
+<h1> Exercises </h1>
