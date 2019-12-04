@@ -26,11 +26,12 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href= "{{ site.baseurl }}" class="btn"> Home </a>
-      <a href= "{{ site.github.page2 }}" class="btn"> Page 2</a>
-      <a href= "{{ site.github.page3 }}" class="btn"> Page 3</a>
-      <a href= "{{ site.github.idioms }}" class="btn"> Idioms</a>
-      <a href= "{{ site.github.exercises }}" class="btn"> Exercises</a>
+        <a href= "{{ site.baseurl }}" class="btn"> Home page </a>
+      <a href= "{{ site.github.page2 }}" class="btn"> About France </a>
+      <a href= "{{ site.github.page3 }}" class="btn"> Introduction to French </a>
+      <a href= "{{ site.github.idioms }}" class="btn"> French vocabulary </a>
+      <a href= "{{ site.github.exercises }}" class="btn"> Famous French Places </a>
+       <a href= "{{ site.github.exercises }}" class="btn"> Further study </a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
