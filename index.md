@@ -17,12 +17,11 @@
   <p> You will also learn common greetings and how to ask simple questions </p>
 <p> </p>
 <ul> <h2> Contents </h2>
-  <a About France href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" </a>
-  <a Introduction to French href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" </a>
-  <a French vocabulary href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" </a>
- <a Famous French places href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" </a>
-  <a Further study href= "https://georginah2.github.io/SML5202-final-Hutt/page6.html" </a>
-  
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French vocabulary </a>
+ <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > Famous French places  </a>
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page6.html"> Further study </a>
   </ul>
 <p> </p>
 <p> </p>
