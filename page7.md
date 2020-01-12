@@ -11,3 +11,6 @@
   </p>
   <p> Like Duolingo, Busuu places the learner at the required level. There is continuous assessment and different ways of learning. However, Busuu is not free for the duration of the programme. </p>
 
+<h2> <a href="https://quizlet.com/en-gb" > Quizlet </a> <img src="https://pbs.twimg.com/media/DsZnGbCUUAEBfGz.jpg" alt="quizlet logo" style="float:right;width:150px;height:150px;" >
+  Webpage link: https://quizlet.com/en-gb
+  <p> Quizlet is a flashcard website where you can either use flashcards made by others or make your own. Quizlet incorporates audio and visual to aid learning. </p>
