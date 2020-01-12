@@ -13,4 +13,4 @@
   <p> You will be tested on each page to see what you have learnt and what you could do with learning more about </p>
   <p> Not only that! But we will also help you in learning about French culture and the best places to visit!<sub> How great!</sub> </p>
 <p> <strong> Sell this to me... what are you actually going to teach me? </strong> </p>
-<p> Not only will this website help you with the basics such as the alphabet and numbers... but with the incorporation of audio you will be able to pronounce words like a true Frenchie! When you come across the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emoji_u1f509.svg/70px-Emoji_u1f509.svg.png" alt= sound image > image be sure to click it to hear the pronunciation!
+<p> Not only will this website help you with the basics such as the alphabet and numbers... but with the incorporation of audio you will be able to pronounce words like a true Frenchie! When you come across the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emoji_u1f509.svg/70px-Emoji_u1f509.svg.png" alt= sound image width="20" height="20" > image be sure to click it to hear the pronunciation!
