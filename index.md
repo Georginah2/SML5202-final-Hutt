@@ -16,7 +16,7 @@
 <p> Not only will this website help you with the basics such as the alphabet and numbers... but with the incorporation of audio you will be able to pronounce words like a true Frenchie! When you come across the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emoji_u1f509.svg/70px-Emoji_u1f509.svg.png" alt= "sound image" width="30" height="30" > image be sure to click it to hear the pronunciation! </p>
   <p> You will also learn common greetings and how to ask simple questions </p>
 <p> </p>
-<ul> <h2> Contents </h2>
+<h2> Contents </h2> 
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French vocabulary </a> <br>
