@@ -9,7 +9,7 @@
   <strong> Sounds amazing! How do I start learning? </strong> 
   </p> <p>
   This website is <sup> super </sup> easy to navigate! Just use the tabs at the top of the pages to follow your French learning journey or use the links below. </p>
-  <p> <strong> How do I know how well I'm doing? I don't want to embarrass myself! </strong> </pr>
+  <p> <strong> How do I know how well I'm doing? I don't want to embarrass myself! </strong> </p>
   <p> You will be tested on each page to see what you have learnt and what you could do with learning more about </p>
   <p> Not only that! But we will also help you in learning about French culture and the best places to visit!<sub> How great!</sub> </p>
 <p> <strong> Sell this to me... what are you actually going to teach me? </strong> </p>
