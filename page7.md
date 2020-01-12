@@ -14,3 +14,6 @@
 <h2> <a href="https://quizlet.com/en-gb" > Quizlet </a> </h2> <img src="https://pbs.twimg.com/media/DsZnGbCUUAEBfGz.jpg" alt="quizlet logo" style="float:right;width:150px;height:130px;" >
   Webpage link: https://quizlet.com/en-gb
   <p> Quizlet is a flashcard website where you can either use flashcards made by others or make your own. Quizlet incorporates audio and visual to aid learning. </p>
+
+<h2> <a href="http://www.bbc.co.uk/languages/french/" >  BBC Languages- French </a> </h2>
+<img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;width:70px;height:30px;"
