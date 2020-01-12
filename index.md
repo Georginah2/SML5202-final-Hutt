@@ -17,12 +17,12 @@
 <p> </p>
 <h1> Contents </h1> 
 <body>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br> <br>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a> <br> <br>
-   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a> <br> <br>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > French vocabulary </a> <br> <br>
- <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > Famous French places  </a> <br> <br>
-  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> Further study </a> <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > 1. About France </a> <br> <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > 2. Introduction to French  </a> <br> <br>
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > 3. French greetings </a> <br> <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > 4. French vocabulary </a> <br> <br>
+ <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Famous French places  </a> <br> <br>
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Further study </a> <br>
  </body>
 <p> </p>
 <p> </p>
