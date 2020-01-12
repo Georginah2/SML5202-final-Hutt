@@ -1,4 +1,4 @@
-<h1> <strong> Welcome, or Bonjour! </strong> </h1>
+<h1> <strong> Welcome, or <i> Bonjour! </i> </strong> </h1>
 <body> 
   This website hopes to help you with the basics of the French language so you can travel to France and speak the lingo! 
   This will not be an easy ride, but hold in there, because when you are eating croissants in the heart of Paris, or walking the promenade in Nice, you will be thankful for knowing how to ask for a 'petit café', a 'pain au chocolat' <i> si'il vous plait </i>, or where the <i> toilettes </i> are! 
