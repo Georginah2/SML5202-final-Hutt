@@ -16,6 +16,6 @@
   <p> Quizlet is a flashcard website where you can either use flashcards made by others or make your own. Quizlet incorporates audio and visual to aid learning. </p>
 
 <h2> <a href="http://www.bbc.co.uk/languages/french/" >  BBC Languages- French </a> </h2>
-<img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;width:110px;height:50px;" >
+<img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;width:120px;height:50px;" >
 Website link: http://www.bbc.co.uk/languages/french/  
 <p> BBC </p>
