@@ -23,7 +23,7 @@
   <h2> Marseille </h2>
   <p> Marseille is the second largest city in France, with a population of around 870,000. It sits on the Mediterranean coast, so it has a very hot climate in summer. In fact, it has the most sunny days in all of France. </p>
   <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Marseille-corniche.jpg" alt="Marseille Corniche" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1_marseille_vieux_port_pano.jpg/880px-1_marseille_vieux_port_pano.jpg" alt="View from port-Marseille" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Edmond_Dantes_20130630_Marseille_1.jpg/440px-Edmond_Dantes_20130630_Marseille_1.jpg" alt="Palais" height="150" >  </p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Marseille-corniche.jpg" alt="Marseille Corniche" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/1_marseille_vieux_port_pano.jpg/880px-1_marseille_vieux_port_pano.jpg" alt="View from port-Marseille" height="150" ></p>
     <h2> Lyon </h2>
     <p> Lyon is the third largest city in France. Known for its cuisine and historical landmarks, part of it is registered as a UNESCO World Heritage site. It has a population of around half a million </p>
     <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG" alt="Lyon Cathedral" height="150" style="float left">
