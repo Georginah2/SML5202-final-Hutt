@@ -9,6 +9,8 @@
     <audio id="audio_play">
     <source src="https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg" type="audio/ogg" />
       </audio>
+  France's motto is <i> "Liberté, égalité, fraternité" </i> meaning <i> "Liberty, Equality, Fraternity" </i>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/150px-Coat_of_arms_of_the_French_Republic.svg.png" alt="France emblem" height="150" >
 
   <h2> Major Cities </h2>
 <p> The Capital city of France is Paris, known for sights such as Eiffel Tower, Sacré Coeur and Moulin Rouge
