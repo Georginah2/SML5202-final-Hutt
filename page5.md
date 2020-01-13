@@ -1,6 +1,6 @@
 <h1> <strong> Vocabulary Boom </strong> </h1>
 <p> A lot of words in the French language are very similar to English. This makes it easy when going abroad as you are more likely to understand each other. However, it is worth learning common words that you would come across on a menu, or in a supermarket. Below is two sets of flashcards, for you to go through and listen to the pronunciation. After, you can test yourself with the quizzes! </p>
-<table>
+<table style="width:100%">
 <tr>
   <th> <h1> Drinks </h1> </th>
   <th> <h1> Food </h1> </th> </tr>
