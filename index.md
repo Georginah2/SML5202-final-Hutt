@@ -3,8 +3,7 @@
   This website hopes to help you with the basics of the French language so you can travel to France and speak the lingo! 
   This will not be an easy ride, but hold in there, because when you are eating croissants in the heart of Paris, or walking the promenade in Nice, you will be thankful for knowing how to ask for a 'petit café', a 'pain au chocolat' <i> si'il vous plait </i>, or where the <i> toilettes </i> are! 
   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/N%C3%A9cropole_nationale_de_Sigolsheim_2013_38.jpg/1920px-N%C3%A9cropole_nationale_de_Sigolsheim_2013_38.jpg" alt="French flag" style="float:right;width:200px;height:200px;" >
-   A little less <strike> I don't understand </strike> and a little more I <strong> got </strong> this </p>
-  </body>
+ 
 <p>
   <strong> <i> Sounds amazing! How do I start learning? </i> </strong> 
   </p> <p>
@@ -24,7 +23,8 @@
  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Famous French places  </a> <br> <br>
   <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Further study </a> <br>
  </body>
-<p> </p>
+<p>   A little less <strike> I don't understand </strike> and a little more I <strong> got </strong> this </p>
+  </body> </p>
 <p> </p>
 <p> </p>
 <p> </p>
