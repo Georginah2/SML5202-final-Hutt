@@ -3,8 +3,8 @@
 
 <h2> Paris </h2>
 <p> OK. So it's impossible to not start with Paris </p>
-<p> <strong> For Museums and Art </strong </p>
-  <p> <h2> <ol> <li> https://m.musee-orsay.fr/en/home.html </li> </h2>
+<p> <h2> For Museums and Art </h2> </p>
+  <p> <ol> <li> https://m.musee-orsay.fr/en/home.html </li> 
   <li>  https://www.musee-orangerie.fr/en </li>
   <li> http://www.musee-rodin.fr/ </li>
   <li> https://www.louvre.fr/en </li>
