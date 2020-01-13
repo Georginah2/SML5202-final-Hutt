@@ -4,11 +4,11 @@
 <h2> Paris </h2>
 <p> OK. So it's impossible to not start with Paris </p>
 <p> <h2> For Museums and Art </h2> </p>
-  <p> <ol> <li> https://m.musee-orsay.fr/en/home.html </li> 
-  <li>  https://www.musee-orangerie.fr/en </li>
-  <li> http://www.musee-rodin.fr/ </li>
-  <li> https://www.louvre.fr/en </li>
-  <li>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li>
+  <p> <ol> <li> <a href="https://m.musee-orsay.fr/en/home.html"> Musée d'Orsay </a>  https://m.musee-orsay.fr/en/home.html </li> 
+  <li> <a href="https://www.musee-orangerie.fr/en" > Musée d'Orangerie </a> https://www.musee-orangerie.fr/en </li>
+  <li> <a href="http://www.musee-rodin.fr/"> Musée Rodin </a> http://www.musee-rodin.fr/ </li>
+  <li> <a href="https://www.louvre.fr/en"> Le Louvre </a> https://www.louvre.fr/en </li>
+  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2> Normandy </h2>
