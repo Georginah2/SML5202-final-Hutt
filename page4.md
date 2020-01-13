@@ -1,14 +1,16 @@
+<style>
 .column {
   float: left;
   width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
+  padding: 10px;
+  height: 300px;
+ }
+.row: {
   content: "";
   display: table;
   clear: both;
 }
+</style> 
 
 <h1> The Greeting </h1>
 <div class="row">
