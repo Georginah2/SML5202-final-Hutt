@@ -31,7 +31,5 @@
      
 <h2> Normandy </h2>
 
-<h2> Nice </h2>
-  
 <h2> Bordeaux </h2>
 
