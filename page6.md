@@ -16,6 +16,16 @@
    <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
     <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
       <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li>
+    <p> <strong> For Accommodation and travel </strong> </p>
+<p>  Ideas for websites to look for accommodation </p>
+  <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
+  <li> <a href="https://www.booking.com/city/fr/paris.en-gb.html"> Booking.com : </a> https://www.booking.com/city/fr/paris </li> 
+  <li> <a href="https://www.expedia.co.uk/" > Expedia : </a>  https://www.expedia.co.uk </li>
+  <li> <a href="https://www.kayak.co.uk/" > Kayak : </a> https://www.kayak.co.uk/ </li>
+  <li> <a href="https://www.skyscanner.net/" > Skyscanner : </a> https://www.skyscanner.net/ </li>
+  <li> <a href="https://www.eurostar.com/uk-en" > Eurostar : </a> https://www.eurostar.com/uk-en </li>
+  <li> <a href="https://www.directferries.co.uk/" > Direct Ferries : </a> https://www.directferries.co.uk/ </li
+    
      <p> This video gives you good hints and tips when visiting Paris </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
