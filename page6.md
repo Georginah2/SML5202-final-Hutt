@@ -15,7 +15,7 @@
    <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
    <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
     <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
-      <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li> </p>
+      <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li> </ol> </p>
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
   <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
