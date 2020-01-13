@@ -3,7 +3,7 @@
 <table style="width:300">
 <tr>
   <th> <h1> Drinks </h1> </th>
-  <th> <h1> Quiz </h1> </th> </tr>
+  <th> <h1> Quiz </h1> </th> </th> </tr>
 <td> <iframe src="https://quizlet.com/472295579/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:0"></iframe> </td>
 <td> <iframe src="https://quizlet.com/472295579/test/embed?i=13p126&x=1jj1" height="500" width="70%" style="border:0"></iframe> </td>
    </table>
@@ -14,3 +14,4 @@
  <th> <h1> Quiz </h1> </th> </tr>
 <td> <iframe src="https://quizlet.com/472297415/test/embed?i=13p126&x=1jj1" height="500" width="70%" style="border:0"></iframe> </td>
 <td> <iframe src="https://quizlet.com/472297415/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:0"></iframe>  </td>
+</table>
