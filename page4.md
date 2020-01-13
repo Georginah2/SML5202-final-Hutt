@@ -75,6 +75,7 @@
   
   </tr>
 </table> </p> 
+<h2> Flashcard set </h2>
 <iframe src="https://quizlet.com/472298949/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
 <h2> Quiz </h2>
 <iframe src="https://quizlet.com/472298949/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
