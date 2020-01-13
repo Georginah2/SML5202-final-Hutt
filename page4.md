@@ -15,7 +15,7 @@
     <tr>
     <td>What is your name?</td>
           <td>Comment t'appelles tu?</td>
-      <td>
+   
   </tr>
   <tr>
     <td>My name is</td>
