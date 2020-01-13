@@ -15,8 +15,7 @@
   <p> <li> France's motto is <i> "Liberté, égalité, fraternité" </i> meaning <i> "Liberty, Equality, Fraternity" </i> </ li> </p>
   <p> <li>  As with other countries in the European Union, France's currency is the Euro.</li>  </p>
   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/440px-Euro_coins_and_banknotes.jpg" alt="Euro" height="150"  > </p>
-    <p> <li> France is a secular country, meaning that it doesn't have an official religion. However, about half of French people identify as Catholic, 2% protestants and around 3% to 4% are Muslim. </li>  </p>
-    
+    <p> <li> France is a secular country, meaning that it doesn't have an official religion. However, about half of French people identify as Catholic, 2% protestants and around 3% to 4% are Muslim. </li>  </p> </ul>
   <h1> Major Cities </h1>
 <h2> Paris </h2>
 <p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!). The population of Paris is 2.141 million (as of January 2019) </p>
