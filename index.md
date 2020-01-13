@@ -23,8 +23,7 @@
  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Famous French places  </a> <br> <br>
   <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Further study </a> <br>
  </body>
-<p>   A little less <strike> I don't understand </strike> and a little more I <strong> got </strong> this </p>
-  </body> </p>
+
 <p> </p>
 <p> </p>
 <p> </p>
