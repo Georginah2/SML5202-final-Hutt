@@ -6,7 +6,7 @@
   padding: 10px;
   height: 300px;
  }
-.row: {
+.row {
   content: "";
   display: table;
   clear: both;
