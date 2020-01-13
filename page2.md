@@ -1,5 +1,5 @@
 <body> This page will give you a brief introduction to France! 
-  <h2> Quick facts! </h2>
+  <h1> Quick facts! </h1>
   <ul>
 <p> <li> France is located in Western Europe. It is twice the size of the UK and has a population of just over 62 million. It has one of the world's top 6 economies and is a member of both the European Union and the United Nations.</li> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EU-France_%28orthographic_projection%29.svg/440px-EU-France_%28orthographic_projection%29.svg.png" alt="France in the World" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_base_map_18_regions.png/1296px-France_base_map_18_regions.png" alt="France in the World" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/250px-Flag_of_Europe.svg.png" alt="France in the World" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/250px-Flag_of_the_United_Nations.svg.png" alt="France in the World" height="150" >  </p>
@@ -17,7 +17,15 @@
   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/440px-Euro_coins_and_banknotes.jpg" alt="Euro" height="150"  > </p>
     <p> <li> France is a secular country, meaning that it doesn't have an official religion. However, about half of French people identify as Catholic, 2% protestants and around 3% to 4% are Muslim. </li>  </p>
     
-  <h2> Major Cities </h2>
+  <h1> Major Cities </h1>
+<h2> Paris </h2>
 <p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!) </p>
 <p>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/480px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" alt="Eiffel Tower" height="150">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg/400px-Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg" alt="Notre Dame" height="150"  >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_July_2011-27a.jpg/1624px-Paris_July_2011-27a.jpg" alt="Le louvre" height="150"  > 
-  
+  <h2> Marseille </h2>
+  <p> Marseille is the second largest city in France
+    <h2> Lyon </h2>
+    <p> Lyon is the third largest city in France. Known for its cuisine and historical landmarks, part of it is registered as a UNESCO World Heritage site. It has a population of around half a million </p>
+    <p> <figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG' alt='Lyon Cathedral' height="150" />
+              <figcaption> <i> Lyon Cathedral: Cathédrale Saint-Jean-Baptiste de Lyon </i> </figcaption>
+</figure>
