@@ -1,4 +1,7 @@
 <h1> The Greeting </h1>
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
 <p> <table style="width:100%">
   <tr>
     <th>English</th>
@@ -74,7 +77,7 @@
         <td>Enchanté(e)</td>
   
   </tr>
-</table> </p> 
+</table> </p> </div>
 <h2> Flashcard set </h2>
 <iframe src="https://quizlet.com/472298949/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
 <h2> Quiz </h2>
