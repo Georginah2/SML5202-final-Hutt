@@ -19,7 +19,7 @@
     
   <h1> Major Cities </h1>
 <h2> Paris </h2>
-<p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!) </p>
+<p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!). The population of Paris is 2.141 million (as of January 2019) </p>
 <p>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/480px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" alt="Eiffel Tower" height="150">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg/400px-Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg" alt="Notre Dame" height="150"  >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_July_2011-27a.jpg/1624px-Paris_July_2011-27a.jpg" alt="Le louvre" height="150"  > 
   <h2> Marseille </h2>
   <p> Marseille is the second largest city in France
