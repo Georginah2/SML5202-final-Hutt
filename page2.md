@@ -21,8 +21,9 @@
 <p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!). The population of Paris is 2.141 million (as of January 2019) </p>
 <p>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/480px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" alt="Eiffel Tower" height="150">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg/400px-Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg" alt="Notre Dame" height="150"  >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_July_2011-27a.jpg/1624px-Paris_July_2011-27a.jpg" alt="Le louvre" height="150"  > 
   <h2> Marseille </h2>
-  <p> Marseille is the second largest city in France, with a population of around 870,000. It sits on the Mediterranean coast, so it has a very hot climate in summer, it has the most sunny days in all of France.
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Marseille-corniche.jpg" alt="Marseille Corniche" height="150" >  
+  <p> Marseille is the second largest city in France, with a population of around 870,000. It sits on the Mediterranean coast, so it has a very hot climate in summer, it has the most sunny days in all of France. </p>
+  <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Marseille-corniche.jpg" alt="Marseille Corniche" height="150" >  </p>
     <h2> Lyon </h2>
     <p> Lyon is the third largest city in France. Known for its cuisine and historical landmarks, part of it is registered as a UNESCO World Heritage site. It has a population of around half a million </p>
     <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG" alt="Lyon Cathedral" height="150" style="float left">
