@@ -1,5 +1,5 @@
 <h1> The Greeting </h1>
-  <tr>
+  <table> <tr>
     <th>English</th>
     <th>Translation</th>
   </tr>
