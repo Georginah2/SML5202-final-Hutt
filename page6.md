@@ -2,7 +2,7 @@
 <p> Paris is not the only place where you can holiday in France. The rich culture of France allows you to immerse yourself in its traditions, even if only for few days or weeks. Let's talk about some places worth visiting in France </p>
 
 <h2> Paris </h2>
-<p> <h2> For Museums and Art </h2> </p>
+<p> <strong> For Museums and Art </strong> </p>
 <p> The top five as rated on Tripadvisor </p>
   <p> <ol> <li> <a href="https://m.musee-orsay.fr/en/home.html"> Musée d'Orsay : </a>  https://m.musee-orsay.fr/en/home.html </li> 
   <li> <a href="https://www.musee-orangerie.fr/en" > Musée d'Orangerie : </a> https://www.musee-orangerie.fr/en </li>
