@@ -1,3 +1,4 @@
+<h1> The Greeting </h1>
 <style>
 .column {
   float: left;
@@ -11,8 +12,6 @@
   clear: both;
 }
 </style> 
-
-<h1> The Greeting </h1>
 <div class="row">
   <div class="column"></div>
   <div class="column"></div>
