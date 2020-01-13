@@ -25,7 +25,6 @@
   <p> Marseille is the second largest city in France
     <h2> Lyon </h2>
     <p> Lyon is the third largest city in France. Known for its cuisine and historical landmarks, part of it is registered as a UNESCO World Heritage site. It has a population of around half a million </p>
-    <p> <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG' alt='Lyon Cathedral' height="150" />
-              <figcaption> <i> Lyon Cathedral: Cathédrale Saint-Jean-Baptiste de Lyon </i> </figcaption>
-</figure>
+    <p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG' alt="Lyon Cathedral" height="150" />
+           <i> Lyon Cathedral: Cathédrale Saint-Jean-Baptiste de Lyon </i>
