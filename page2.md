@@ -14,8 +14,44 @@
      <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/150px-Coat_of_arms_of_the_French_Republic.svg.png" alt="France emblem" height="150"  > </p>
   <p> <li> France's motto is <i> "Liberté, égalité, fraternité" </i> meaning <i> "Liberty, Equality, Fraternity" </i> </ li> </p>
   <p> <li>  As with other countries in the European Union, France's currency is the Euro.</li>  </p>
-  <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/440px-Euro_coins_and_banknotes.jpg" alt="Euro" height="150"  > </p>
+  <p> <div class="container"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/440px-Euro_coins_and_banknotes.jpg" alt="Euro" height="150"  >   <button class="btn">Button</button> </div> </p>
     <p> <li> France is a secular country, meaning that it doesn't have an official religion. However, about half of French people identify as Catholic, 2% protestants and around 3% to 4% are Muslim. </li>  </p> </ul>
+  
+  .container {
+  position: relative;
+  width: 50%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+  
+  
+  
+  
+  
   <h1> Major Cities </h1>
 <h2> Paris </h2>
 <p> The Capital city of France is Paris, known for sights such as the Eiffel Tower, Notre Dame Cathedral and Le Louvre Art Gallery (home to the Mona Lisa painting!). The population of Paris is 2.141 million (as of January 2019) </p>
