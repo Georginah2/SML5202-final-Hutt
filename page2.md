@@ -17,8 +17,7 @@
   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/440px-Euro_coins_and_banknotes.jpg" alt="Euro" height="150"  > </p>
     <p> <li> France is a secular country, meaning that it doesn't have an official religion. However, about half of French people identify as Catholic, 2% protestants and around 3% to 4% are Muslim. </li>  </p>
     
-    </ul>
-    
   <h2> Major Cities </h2>
-<p> The Capital city of France is Paris, known for sights such as Eiffel Tower, Sacré Coeur and Moulin Rouge
+<p> The Capital city of France is Paris, known for sights such as Eiffel Tower, Notre Dame Cathedral and Le Louvre art gallery </p>
+<p>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/480px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" alt="Eiffel Tower" height="150">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg/400px-Cath%C3%A9drale_Notre-Dame_de_Paris%2C_3_June_2010.jpg" alt="Notre Dame" height="150"  >  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paris_July_2011-27a.jpg/1624px-Paris_July_2011-27a.jpg" alt="Le louvre" height="150"  > 
   
