@@ -3,8 +3,14 @@
 
 <h2> Paris </h2>
 <p> OK. So it's impossible to not start with Paris </p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0fYFYUO5URB16koHNsrCsovpyiOgDotSmaipCi4GxUE2ySffdfe85N0AW_CJIfksrm2vitdjbI_B8/embed?start=false&loop=false&delayms=5000" frameborder="0" height="500" width="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<p> <strong> For Museums and Art </strong>
+<p> <strong> For Museums and Art </strong </p>
+  <p> <ol> <li> https://m.musee-orsay.fr/en/home.html </li>
+  <li>  https://www.musee-orangerie.fr/en </li>
+  <li> http://www.musee-rodin.fr/ </li>
+  <li> https://www.louvre.fr/en </li>
+  <li>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h2> Normandy </h2>
 
 <h2> Nice </h2>
