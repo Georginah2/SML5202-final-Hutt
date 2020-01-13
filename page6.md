@@ -12,10 +12,10 @@
   <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor </p>
    <p> <ol> <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia: </a> https://www.facebook.com/viaemiliaristorante </li>
-  <p><li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/
-   <p> <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr
-     <p> <li> <a href="https://www.facebook.com/tradinoiparis/ > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
-       <p><li> <a href="https://www.paris-restaurant-pur.fr/> Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/
+  <p> <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
+   <p> <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
+     <p> <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
+       <p> <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li>
      <p> This video gives you good hints and tips when visiting Paris </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
