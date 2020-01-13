@@ -8,9 +8,9 @@
   <p> The national anthem of France is the <i> "La Marseillaise" </i>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Emoji_u1f509.svg/70px-Emoji_u1f509.svg.png" alt= "sound image" onClick="document.getElementById('audio_play').play(); return false;"  width="30" height="30" /> 
     <audio id="audio_play">
     <source src="https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg" type="audio/ogg" />
-      </audio>
-  France's motto is <i> "Liberté, égalité, fraternité" </i> meaning <i> "Liberty, Equality, Fraternity" </i>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/150px-Coat_of_arms_of_the_French_Republic.svg.png" alt="France emblem" height="150" >
+    </audio> </p>
+  <p> France's motto is <i> "Liberté, égalité, fraternité" </i> meaning <i> "Liberty, Equality, Fraternity" </i> </p>
+   <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coat_of_arms_of_the_French_Republic.svg/150px-Coat_of_arms_of_the_French_Republic.svg.png" alt="France emblem" height="150"  > </p>
 
   <h2> Major Cities </h2>
 <p> The Capital city of France is Paris, known for sights such as Eiffel Tower, Sacré Coeur and Moulin Rouge
