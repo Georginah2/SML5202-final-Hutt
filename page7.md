@@ -19,3 +19,11 @@
 <img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;height:100px;" >
 Website link: http://www.bbc.co.uk/languages/french/  
 <p> BBC </p>
+ <body>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a>  <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > French vocabulary </a>  <br>
+ <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > Famous French places  </a> <br>
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> Further study </a>
+ </body>
