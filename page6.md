@@ -8,7 +8,7 @@
   <li> <a href="https://www.musee-orangerie.fr/en" > Musée d'Orangerie : </a> https://www.musee-orangerie.fr/en </li>
   <li> <a href="http://www.musee-rodin.fr/"> Musée Rodin : </a> http://www.musee-rodin.fr/ </li>
   <li> <a href="https://www.louvre.fr/en"> Le Louvre : </a> https://www.louvre.fr/en </li>
-  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> </ol>
+  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> </ol> </p>
   <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor </p>
 <p>  <ol> <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia: </a> https://www.facebook.com/viaemiliaristorante </li>
