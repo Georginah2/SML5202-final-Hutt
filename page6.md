@@ -57,7 +57,8 @@
 <li> <a href="http://www.restaurant-le-pily.com/"> Restaurant Le Pily, Cherbourg: </a> http://www.restaurant-le-pily.com </li> 
        <li> <a href="http://www.wildekitchen.net/" > Wilde Kitchen Cookery School, Benoîtville: </a> http://www.wildekitchen.net </li> 
          <li> <a href="http://www.jeanluc-tartarin.com/">  Restaurant Jean-Luc Tartarin, Le Havre: </a> http://www.jeanluc-tartarin.com  </li> </ol> </p>
-       
+ <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/BQIAACZzJlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+ 
 <h2> Bordeaux </h2>
 
 <p> <strong> For Museums and Art </strong> </p>
