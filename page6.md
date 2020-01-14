@@ -11,19 +11,6 @@
   <li> <a href="https://www.louvre.fr/en"> Le Louvre : </a> https://www.louvre.fr/en </li>
   <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> 
 
-</ol> </p>
-  <ol>
-  <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
-<p>  The top five as rated on Tripadvisor </p>
-
-<p>  <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia: </a> https://www.facebook.com/viaemiliaristorante </li>
-   <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
-   <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
-    <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
-      <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li> 
-
-</ol>
-
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
   <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
