@@ -59,10 +59,10 @@
  <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor </p>
 <p> <ol> <li> <a href="https://www.blisss-restaurant.com/?utm_source=tripadvisor&utm_medium=referral"> Blisss: </a> https://www.blisss-restaurant.com/ </li>
-    <p><li> <a href="
-      <p><li> <a href="
-        <p><li> <a href="
-          <p><li> <a href="
+  <p><li> <a href="https://nofa.fr/"> Nofa: </a> https://nofa.fr/ </li>
+  <p><li> <a href="https://www.ristorantelume.fr/"> Lume: </a> https://www.ristorantelume.fr/ </li>
+  <p><li> <a href="https://www.son-restaurant.fr/"> Restaurant Son: </a> https://www.son-restaurant.fr/ </li>
+  <p><li> <a href="https://www.lechicoula.fr/"> Le Chicoula: </a> https://www.lechicoula.fr/ </li> </ol> </p>
 
 </body>
  <body> <br>
