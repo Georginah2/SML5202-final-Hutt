@@ -1,4 +1,5 @@
 <h1> The adventures of visiting France </h1>
+<body>
 <p> Paris is not the only place where you can holiday in France. The rich culture of France allows you to immerse yourself in its traditions, even if only for few days or weeks. Let's talk about some places worth visiting in France </p>
 
 <h2> Paris </h2>
@@ -15,7 +16,7 @@
    <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
    <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
     <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
-      <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li>
+      <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li> </ol>
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
   <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
@@ -33,6 +34,7 @@
 
 <h2> Bordeaux </h2>
 
+</body>
  <body> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
