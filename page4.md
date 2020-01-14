@@ -78,7 +78,7 @@
 <iframe src="https://quizlet.com/472298949/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
 <h2> Quiz </h2>
 <iframe src="https://quizlet.com/472298949/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
-
+<br>
  <body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
