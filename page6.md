@@ -9,7 +9,10 @@
   <li> <a href="https://www.musee-orangerie.fr/en" > Musée d'Orangerie : </a> https://www.musee-orangerie.fr/en </li>
   <li> <a href="http://www.musee-rodin.fr/"> Musée Rodin : </a> http://www.musee-rodin.fr/ </li>
   <li> <a href="https://www.louvre.fr/en"> Le Louvre : </a> https://www.louvre.fr/en </li>
-  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> </ol> </p>
+  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> 
+
+</ol> </p>
+  
   <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor </p>
 
@@ -21,14 +24,15 @@
       
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
-  <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li> </p>
+  <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
 <p>  <li> <a href="https://www.booking.com/city/fr/paris.en-gb.html"> Booking.com : </a> https://www.booking.com/city/fr/paris </li> 
 <li> <a href="https://www.expedia.co.uk/" > Expedia : </a>  https://www.expedia.co.uk </li> 
  <li> <a href="https://www.kayak.co.uk/" > Kayak : </a> https://www.kayak.co.uk/ </li>
   <li> <a href="https://www.skyscanner.net/" > Skyscanner : </a> https://www.skyscanner.net/ </li>
   <li> <a href="https://www.eurostar.com/uk-en" > Eurostar : </a> https://www.eurostar.com/uk-en </li>  
- <li> <a href="https://www.directferries.co.uk/" > Direct Ferries : </a> https://www.directferries.co.uk/ </li> </ol>
-  </p>
+ <li> <a href="https://www.directferries.co.uk/" > Direct Ferries : </a> https://www.directferries.co.uk/ </li> 
+
+</ol> </p>
   
      <p> This video gives you good hints and tips when visiting Paris </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -39,8 +43,10 @@
 <p> <ol> <li> <a href="https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/"> White Cliffs of Etretat: </a> https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/ </li> 
  <li> <a href="https://www.ot-montsaintmichel.com/index.htm?lang=en" > Mont Saint-Michel: </a> https://www.ot-montsaintmichel.com/index.htm?lang=en </li> 
       <li> <a href="http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2.html" > Honfleur: </a> http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2 </li> 
-        <p><li> <a href="https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/"> The Bayeux Tapestry: </a> https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ </li>
-  <p><li> <a href="http://giverny.org/gardens/fcm/visitgb.htm" > Claude Monet's garden </a> http://giverny.org/gardens/fcm/visitgb.htm </li> </ol> </p>
+       <li> <a href="https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/"> The Bayeux Tapestry: </a> https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ </li>
+  <li> <a href="http://giverny.org/gardens/fcm/visitgb.htm" > Claude Monet's garden </a> http://giverny.org/gardens/fcm/visitgb.htm </li> 
+
+</ol> </p>
   
  <p> <strong> For Restaurants (for foodies) </strong> </p>
  
@@ -49,8 +55,8 @@
   <p> <ol> <li> <a href="https://www.gill.fr/fr"> Restaurant Gill, Rouen: </a> https://www.gill.fr/fr/ </li> 
 <li> <a href="http://www.calvados-drouin.com/calvadosDROUIN-visitGb.html"> Calvados Christian Drouin, Pont-l’Évêque: </a> http://www.calvados-drouin.com/calvadosDROUIN-visitGb </li> 
 <li> <a href="http://www.restaurant-le-pily.com/"> Restaurant Le Pily, Cherbourg: </a> http://www.restaurant-le-pily.com </li> 
-        <p><li> <a href="http://www.wildekitchen.net/" > Wilde Kitchen Cookery School, Benoîtville: </a> http://www.wildekitchen.net </li> 
-          <p><li> <a href="http://www.jeanluc-tartarin.com/">  Restaurant Jean-Luc Tartarin, Le Havre: </a> http://www.jeanluc-tartarin.com  </li> </ol> </p>
+       <li> <a href="http://www.wildekitchen.net/" > Wilde Kitchen Cookery School, Benoîtville: </a> http://www.wildekitchen.net </li> 
+         <li> <a href="http://www.jeanluc-tartarin.com/">  Restaurant Jean-Luc Tartarin, Le Havre: </a> http://www.jeanluc-tartarin.com  </li> </ol> </p>
        
 <h2> Bordeaux </h2>
 
@@ -62,7 +68,9 @@
 <li> <a href="https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror" > The Water Mirror: </a> https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror </li> 
         <li> <a href="https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/PCUAQU033FS0002B" > Bordeaux Cathedral: </a> https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/ </li> 
             <li> <a href="https://www.museeduvinbordeaux.com/" >Musée du Vin et du Négoce de Bordeaux: </a> https://www.museeduvinbordeaux.com </li> 
-    <li> <a href="https://www.laciteduvin.com/en" > La Cité du Vin </a> https://www.laciteduvin.com </li> </ol> </p>
+    <li> <a href="https://www.laciteduvin.com/en" > La Cité du Vin </a> https://www.laciteduvin.com </li> 
+
+</ol> </p>
                    
  <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor 
