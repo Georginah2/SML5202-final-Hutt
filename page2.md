@@ -34,3 +34,12 @@
 </p>
 <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zTjnQ0XlAc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+   <br>
+   <body>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > 1. About France </a>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > 2. Introduction to French  </a> 
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > 3. French greetings </a> 
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > 4. French vocabulary </a> 
+ <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Famous French places  </a> 
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Further study </a> 
+ </body>
