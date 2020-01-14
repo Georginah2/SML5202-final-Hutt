@@ -10,7 +10,7 @@
   <li> <a href="http://www.musee-rodin.fr/"> Musée Rodin : </a> http://www.musee-rodin.fr/ </li>
   <li> <a href="https://www.louvre.fr/en"> Le Louvre : </a> https://www.louvre.fr/en </li>
   <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> 
-
+</ol> </p>
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
   <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
