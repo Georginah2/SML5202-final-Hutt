@@ -16,7 +16,7 @@
   <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
 <p>  The top five as rated on Tripadvisor </p>
 
-<ol> <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia: </a> https://www.facebook.com/viaemiliaristorante </li>
+<p> <ol> <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia: </a> https://www.facebook.com/viaemiliaristorante </li>
    <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
    <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
     <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/
