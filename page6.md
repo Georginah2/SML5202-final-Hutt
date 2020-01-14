@@ -31,8 +31,38 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
 <h2> Normandy </h2>
-
+<p> <strong> For Museums and Points Of Interest </strong> </p>
+<p> The top five as rated by the Crazy Tourist </p>
+<p> <ol> <li> <a href="https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/"> White Cliffs of Etretat: </a> https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/ </li>
+  <p><li> <a href="https://www.ot-montsaintmichel.com/index.htm?lang=en" > Mont Saint-Michel: </a> https://www.ot-montsaintmichel.com/index.htm?lang=en </li>
+      <p><li> <a href="http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2.html" > Honfleur: </a> http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2 </li>
+        <p><li> <a href="https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/"> The Bayeux Tapestry: </a> https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ </li>
+  <p><li> <a href="http://giverny.org/gardens/fcm/visitgb.htm" > Claude Monet's garden </a> http://giverny.org/gardens/fcm/visitgb.htm </li> </ol> </p>
+  
+ <p> <strong> For Restaurants (for foodies) </strong> </p>
+<p>  The top five as rated by The Lonely Planet </p>
+  <p> <ol> <li> <a href="https://www.gill.fr/fr"> Restaurant Gill, Rouen: </a> https://www.gill.fr/fr/ </li>
+    <p><li> <a href="http://www.calvados-drouin.com/calvadosDROUIN-visitGb.html"> Calvados Christian Drouin, Pont-l’Évêque: </a> http://www.calvados-drouin.com/calvadosDROUIN-visitGb </li>
+  <p><li> <a href="http://www.restaurant-le-pily.com/"> Restaurant Le Pily, Cherbourg: </a> http://www.restaurant-le-pily.com </li>
+        <p><li> <a href="http://www.wildekitchen.net/" > Wilde Kitchen Cookery School, Benoîtville: </a> http://www.wildekitchen.net </li> 
+          <p><li> <a href="http://www.jeanluc-tartarin.com/">  Restaurant Jean-Luc Tartarin, Le Havre: </a> http://www.jeanluc-tartarin.com  </li> </ol> </p>
+       
 <h2> Bordeaux </h2>
+<p> <strong> For Museums and Art </strong> </p>
+<p> The top five as rated on Tripadvisor </p>
+<p> <ol> <li> <a href="https://www.bordeaux-tourism.co.uk/offre/fiche/place-de-la-bourse/PCUAQU033FS00043l" > Place de la Bourse: </a> https://www.bordeaux-tourism.co.uk/offre/fiche/place-de-la-bourse/PCUAQU033FS00043 </li>
+  <p><li> <a href="https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror" > The Water Mirror: </a> https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror
+        <p><li> <a href="https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/PCUAQU033FS0002B" > Bordeaux Cathedral: </a> https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/ </li>
+            <p><li> <a href="https://www.museeduvinbordeaux.com/" >Musée du Vin et du Négoce de Bordeaux: </a> https://www.museeduvinbordeaux.com </li>
+    <p><li> <a href="https://www.laciteduvin.com/en" > La Cité du Vin </a> https://www.laciteduvin.com </li>
+                   
+ <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
+<p>  The top five as rated on Tripadvisor </p>
+<p> <ol> <li> <a href="https://www.blisss-restaurant.com/?utm_source=tripadvisor&utm_medium=referral"> Blisss: </a> https://www.blisss-restaurant.com/ </li>
+    <p><li> <a href="
+      <p><li> <a href="
+        <p><li> <a href="
+          <p><li> <a href="
 
 </body>
  <body> <br>
