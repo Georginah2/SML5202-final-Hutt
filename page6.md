@@ -25,7 +25,7 @@
     <p> <strong> For Accommodation and travel </strong> </p>
 <p>  Ideas for websites to look for accommodation </p>
   <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
-<p>  <li> <a href="https://www.booking.com/city/fr/paris.en-gb.html"> Booking.com : </a> https://www.booking.com/city/fr/paris </li> 
+<li> <a href="https://www.booking.com/city/fr/paris.en-gb.html"> Booking.com : </a> https://www.booking.com/city/fr/paris </li> 
 <li> <a href="https://www.expedia.co.uk/" > Expedia : </a>  https://www.expedia.co.uk </li> 
  <li> <a href="https://www.kayak.co.uk/" > Kayak : </a> https://www.kayak.co.uk/ </li>
   <li> <a href="https://www.skyscanner.net/" > Skyscanner : </a> https://www.skyscanner.net/ </li>
