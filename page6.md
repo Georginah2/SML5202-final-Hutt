@@ -3,6 +3,7 @@
 <p> Paris is not the only place where you can holiday in France. The rich culture of France allows you to immerse yourself in its traditions, even if only for few days or weeks. Let's talk about some places worth visiting in France </p>
 
 <h2> Paris </h2>
+<p> Nicknamed the 'City of Lights', Paris is the capital city of France. Home to Euro Disney, Asterix Park and the France ligue 1 football club,  Paris Saint- Germain. You can enjoy big name concerts at the many arenas or stadia, or shows at the Moulin Rouge. There are many restaurants and bars serving traditionl French cuisine. Paris has great train connections all over the country and an underground metro system. </p>
 <p> <strong> For Museums and Art </strong> </p>
 <p> The top five as rated on Tripadvisor </p>
   <p> <ol> <li> <a href="https://m.musee-orsay.fr/en/home.html"> Musée d'Orsay : </a>  https://m.musee-orsay.fr/en/home.html </li> 
@@ -36,6 +37,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
      
 <h2> Normandy </h2>
+<p> Full  of history and culture, Normandy is home to the D-day beaches of World War Two. There are coastal towns and inner-city places to visit, hosting many historical sights such as Claude Monet's garden and the Bayeux Tapestry. </p> 
 <p> <strong> For Museums and Points Of Interest </strong> </p>
 <p> The top five as rated by the Crazy Tourist </p>
 <p> <ol> <li> <a href="https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/"> White Cliffs of Etretat: </a> https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/ </li> 
@@ -58,7 +60,7 @@
  <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/BQIAACZzJlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
  
 <h2> Bordeaux </h2>
-
+<p> Bordeaux is best known for its vineyards and wine. You can enjoy great French cuisine, coastal walks and many historical sights, such as; the Bordeaux Cathedral and the Place de la Bourse. </p>
 <p> <strong> For Museums and Art </strong> </p>
 
 <p> The top five as rated on Tripadvisor </p>
