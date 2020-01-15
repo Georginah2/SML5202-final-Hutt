@@ -33,7 +33,7 @@ Website link: http://www.bbc.co.uk/languages/french/
   <img src="https://lh3.googleusercontent.com/Tg5PkDct1n_QRDin2FmcnormJo7SoNRfzfRHSnEvRIAm4XIs7B55CAtsr6cwPdwQC0lA7fb35zw-K-RKYsyMY1WSwqr42wKIF96M-7BBpJNC8u3Ouoxl1MUZz9FHjNKZqCl-a_IgSy6RAxCLTZHCQREuz5W7xlx_pQEISpuYJtzMhUWLagxXxGAMdxUW98U_GbpQ0wkwJzVYzUFZITT184C0IpqZgZHdM3FVoIs0gXJ9ELrDNDaVlO1M67hNjghgwwq95LCelOHrW_an2UpJ3MqD3ICcFCSfxKaYQVTDghbDxs384qsWn9Th4lEqzEfVauwHkx4boGv0hhTh3twpk71t0fnjk5Wd2dil1-ynGvH-CM6MnfCY_djtXcfTDApYk7UIDP58ic7ZqZKK_dP2hUiEhHHhb96FAlUgVHN8c4D0X32YdhnednGXyjOs2qVDsg-lds5oTzaG7Sykn8bHMnrdR-FpCBFmznQ88yGlzIxsk1LeOWIOYe1g2Psh0j_82YEthZj5xquXoNWeMMxVdE5M06zPqft9WxaQFx-JKFVRj3XqjetfxBQvRNTipvcl0FlKsEyvvrm2NolHqqGD1t1IiBojsVFJqTUfMtvY64BHZ6zlyVqWEtNW13qmnGV8_T8NPw_WVS51cMdsflPmnbIsw-Ih5lD2XvpYNs_R7Y4MScFcl-UWpA=w988-h1396-no" alt="Introduction handbook" height="100">
 </a>
 
-<p> <sup> <i> All downloads sources of TES.com </i> </sup> </p>
+<p> <sup> <i> All downloads sourced from TES.com </i> </sup> </p>
  <body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
