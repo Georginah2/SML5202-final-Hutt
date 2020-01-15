@@ -1,7 +1,19 @@
 <h1> <strong> Pretty in-troduction (to the French language) </strong> </h1>
-<body> <p> The French alphabet is the same as the English alphabet. Watch the video below to see how to pronounce the alphabet. <br>
+<body> 
+ <p> French, français, is a Romance language spoken as a first language by around 136 million people worldwide. A total of 500 million speak it as either a first, second, or foreign language. </p>
+ <p> French is a descendant of the Latin language of the Roman Empire, as are national languages such as Italian, Portuguese, Spanish, Romanian and Catalan </p>
+ <p> As a result of extensive colonial ambitions of France and Belgium, between the 17th and 20th centuries, French was introduced to America, Africa, Polynesia, South-East Asia, and the Caribbean. <p>
+ <br><p> This page will show you the basics of the French language when you go on holiday. Let's say the big day is in two weeks, that means there's two weeks to memorise key phrases that will help you get by. </p>
+ <br>
+ <p><i> Fun tip </i> A lot of French people in France can actually speak English, or enough to communicate with you in English better than you can probably speak French. However, they prefer it when you make the effort, and might even speak back to you in English if you start the conversation in French. </p>
+ <p> This page will show three videos with an introduction to French; alphabet, numbers and a video on pronunciation. </p>
+ <p> The next page will show you greetings and easy phrases to use whilst abroad </p>
+ <p> The final page will be all about vocabularly, to become familiar with recognise in shops or restaurants (to avoid any awkward mistakes!) </p>
+ <br>
+ 
+ <p> The French alphabet is the same as the English alphabet. Watch the video below to see how to pronounce the alphabet. <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8WnTgEzcqaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br> The French numbers are quite difficult but important to know if shopping in France! So watch this video and complete the quiz below. <br>
+<br> The French numbers are quite difficult but important to know in France! So watch this video and complete the quiz below. <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/CEx2fPn-_UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 
