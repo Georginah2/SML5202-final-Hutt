@@ -10,10 +10,10 @@
  
  <p> The French alphabet is the same as the English alphabet. Watch the video below to see how to pronounce the alphabet. <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8WnTgEzcqaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br> The French numbers are quite difficult but important to know in France! So watch this video and complete the quiz below. <br>
+<br> The French numbers are quite difficult but important to know in France! So watch this video. <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/CEx2fPn-_UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <br>
- <p> The French pronunciation is very important to think about. </p>
+ <br><br>
+ <p> The French pronunciation is very important to think about: </p>
   <br>
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/VyJ3HQRbsag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
