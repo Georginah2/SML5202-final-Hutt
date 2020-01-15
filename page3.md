@@ -1,8 +1,6 @@
 <h1> <strong> Pretty in-troduction (to the French language) </strong> </h1>
-<body> 
- <p> French, français, is a Romance language spoken as a first language by around 136 million people worldwide. A total of 500 million speak it as either a first, second, or foreign language. </p>
- <p> French is a descendant of the Latin language of the Roman Empire, as are national languages such as Italian, Portuguese, Spanish, Romanian and Catalan </p>
- <p> As a result of extensive colonial ambitions of France and Belgium, between the 17th and 20th centuries, French was introduced to America, Africa, Polynesia, South-East Asia, and the Caribbean. <p>
+<body> <h2> Background to French </h2>
+ <p> French, français, is a Romance language spoken as a first language by around 136 million people worldwide. A total of 500 million speak it as either a first, second, or foreign language. French is a descendant of the Latin language of the Roman Empire, as are national languages such as Italian, Portuguese, Spanish, Romanian and Catalan. As a result of extensive colonial ambitions of France and Belgium, between the 17th and 20th centuries, French was introduced to America, Africa, Polynesia, South-East Asia, and the Caribbean. <p>
  <br><p> This page will show you the basics of the French language when you go on holiday. Let's say the big day is in two weeks, that means there's two weeks to memorise key phrases that will help you get by. </p>
  <br>
  <p><i> Fun tip </i> A lot of French people in France can actually speak English, or enough to communicate with you in English better than you can probably speak French. However, they prefer it when you make the effort, and might even speak back to you in English if you start the conversation in French. </p>
