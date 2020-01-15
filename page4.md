@@ -1,6 +1,6 @@
 <h1> The Greeting </h1>
-<p> In the first section, we will cover the basic greetings in French. The table below contains the same information as the flashcards. Learn the information, use the sound button on the flashcards to see how they sound and then answer the test that follows. This will help you start communicating in France. </p> 
-<p> The second section that follows is common phrases to use when on holiday in France. Again, utilise the table and flashcards to answer the test at the end </p>
+<p><ol> <li> In the first section, we will cover the basic greetings in French. The table below contains the same information as the flashcards. Learn the information, use the sound button on the flashcards to see how they sound and then answer the test that follows. This will help you start communicating in France. </li>
+<li> The second section that follows is common phrases to use when on holiday in France. Again, utilise the table and flashcards to answer the test at the end </li> </ol>
   <table> <tr>
     <th>English</th>
     <th>Translation</th>
