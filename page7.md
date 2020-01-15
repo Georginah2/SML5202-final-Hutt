@@ -1,40 +1,89 @@
-<h1> Real Genius </h1> 
+<h1> The adventures of visiting France </h1>
 <body>
-<p> This page will cover some more websites that are useful if you want to stretch yourself and learn more </p>
-  <h2> <a href="https://www.duolingo.com/" > Duolingo </a> </h2> <img src="https://d35aaqx5ub95lt.cloudfront.net/images/logo-with-duo.png" alt="Duolingo logo" style="float:right;width:150px;height:150px;" >
-  Webpage link: https://www.duolingo.com/
- <p> Duolingo is a language learning platform incorporating audio, visual and comprehension tasks. There is an entrance test to place you at the correct level, with continuous assessment to see how well you are doing. Duolingo is free to join and there are many languages available to learn. There is also the ability to talk to other language learners and share ideas! </p>
- <br>
-<p> <h2> <a href="https://www.busuu.com/" > Busuu </a> </h2>  
- <img src="https://lh3.googleusercontent.com/53v92E5zR1PfZS5tDbyWUvsulfftD0QeAk_3RaWTfAWIUjAE6GC27sY8Suoc2bLJmn5r" alt="Busuu logo" style="float:right;height:100px;" >
- Webpage link: https://www.busuu.com/
-  </p>
-  <p> Like Duolingo, Busuu places the learner at the required level. There is continuous assessment and different ways of learning. However, Busuu is not free for the duration of the programme. </p>
+<p> Paris is not the only place where you can holiday in France. The rich culture of France allows you to immerse yourself in its traditions, even if only for few days or weeks. Let's talk about some places worth visiting in France </p>
 
-<h2> <a href="https://quizlet.com/en-gb" > Quizlet </a> </h2> <img src="https://pbs.twimg.com/media/DsZnGbCUUAEBfGz.jpg" alt="quizlet logo" style="float:right;height:100px;" >
-  Webpage link: https://quizlet.com/en-gb
-  <p> Quizlet is a flashcard website where you can either use flashcards made by others or make your own. Quizlet incorporates audio and visual to aid learning. </p>
+<h2> Paris </h2>
+<p> Nicknamed the 'City of Lights', Paris is the capital city of France. Home to Euro Disney, Asterix Park and the France ligue 1 football club,  Paris Saint- Germain. You can enjoy big name concerts at the many arenas or stadia, or shows at the Moulin Rouge. There are many restaurants and bars serving traditionl French cuisine. Paris has great train connections all over the country and an underground metro system. </p>
+<p> <strong> For Museums and Art </strong> </p>
+<p> The top five as rated on Tripadvisor </p>
+  <p> <ol> <li> <a href="https://m.musee-orsay.fr/en/home.html"> Musée d'Orsay : </a>  https://m.musee-orsay.fr/en/home.html </li> 
+  <li> <a href="https://www.musee-orangerie.fr/en" > Musée d'Orangerie : </a> https://www.musee-orangerie.fr/en </li>
+  <li> <a href="http://www.musee-rodin.fr/"> Musée Rodin : </a> http://www.musee-rodin.fr/ </li>
+  <li> <a href="https://www.louvre.fr/en"> Le Louvre : </a> https://www.louvre.fr/en </li>
+  <li> <a href="https://madparis.fr/en/museums/musee-nissim-de-camondo/" > Musée Nissim de Camondo : </a>  https://madparis.fr/en/museums/musee-nissim-de-camondo/ </li> 
+</ol> </p>
+ <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
+ <p>  The top five as rated on Tripadvisor </p>
+ <p> <ol> <li> <a href="https://www.facebook.com/viaemiliaristorante?utm_source=tripadvisor&utm_medium=referral"> Via Emilia:                     </a> https://www.facebook.com/viaemiliaristorante </li>
+    <li> <a href="http://www.iletaitunsquare.com/" > Il Etait Un Square : </a> http://www.iletaitunsquare.com/ </li>
+    <li> <a href="https://www.mayfairgarden-paris.fr/?utm_source=tripadvisor&utm_medium=referral" > Mayfair Garden : </a> https://www.mayfairgarden-paris.fr </li>
+   <li> <a href="https://www.facebook.com/tradinoiparis/" > Tra di Noi : </a> https://www.facebook.com/tradinoiparis/ </li>
+   <li> <a href="https://www.paris-restaurant-pur.fr/" > Pur'- Jean-Francois Rouquette : </a> https://www.paris-restaurant-pur.fr/ </li> 
 
-<h2> <a href="http://www.bbc.co.uk/languages/french/" >  BBC Languages- French </a> </h2>
-<img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;height:80px;" >
-Website link: http://www.bbc.co.uk/languages/french/  
-<p> BBC </p>
-<br> 
-<p> <h2> Downloads </h2> </p>
-<p> Click on the images below to download files to learn more about French </p>
-<p> <a href="https://drive.google.com/file/d/10gLDSlnqxUu02D-E2hytv2RianewWk2U/view" download>
-  <img src="https://lh3.googleusercontent.com/BK8CCU6mPgkrNi_J47fTgZ0FUIhWHpupQdwTqlt6qAf6lKNHKUTAq9FC-0cuXMREY2NxNOQniPXuZ6JV0tz5CX-TpaJB72ovX5TokSAop29rnptSQHYJpBkmWT230J5x6nZo33hFRvtr49rcX_c7ydeMGK9LMFSnSWwyCqozbCR2vIhU4jlxS8pUukqfwXsXhtr_YnxnC0kaz6Mos3lmN_I3voHBvuh4XnUs_B9Nxm6LmR-0UnMIw0jCrG-u2xPfSKj6FagvtUkWyyM4jTSsDMb-D5-6A7Jk1Y0t1bBkYxdmx2InB6fKYx8Xd5NknskxR4f1KMko6eM9t1YIe1ReDXsiZzYfye6m_p8M6LCIWp_NHL2Q7O9nG-EQeiR7ZJgm-z3sLb_BCIYNbgOxbCncwW3H8p1TYqnB8Vt-ltu71c5a5mgpkF2dYyfs8EPdLx7fAmmtZ3QWcq5gJp0bvuHNqguRhUCtif0VkFF3Z3Xd5wAYqBLvMLeMssF9iItCVIc1PBUWGjEUbMcdIGEHiPAmtdrEonr7xYESyI8wta1niMXultE7R2821o3qzKvUZYYyGzTH6sv3hazhbIXONq6icnvK1jIzwIWCtGOXlEoaI8gU_HbxsxlqfxP6eyFqUj16fiRyMhD35y7d5_q6i8LXx9pOeb6IN65dTqVoAf_Da6JpC9gCanymCA=w1080-h1396-no" alt="PDF" height="100"> </a> 
+</ol>
+ 
+   <p> <strong> For Accommodation and travel </strong> </p>
+<p>  Ideas for websites to look for accommodation </p>
+  <p> <ol> <li> <a href="https://www.airbnb.co.uk/" > AirBNB : </a> https://www.airbnb.co.uk </li>
+<li> <a href="https://www.booking.com/city/fr/paris.en-gb.html"> Booking.com : </a> https://www.booking.com/city/fr/paris </li> 
+<li> <a href="https://www.expedia.co.uk/" > Expedia : </a>  https://www.expedia.co.uk </li> 
+ <li> <a href="https://www.kayak.co.uk/" > Kayak : </a> https://www.kayak.co.uk/ </li>
+  <li> <a href="https://www.skyscanner.net/" > Skyscanner : </a> https://www.skyscanner.net/ </li>
+  <li> <a href="https://www.eurostar.com/uk-en" > Eurostar : </a> https://www.eurostar.com/uk-en </li>  
+ <li> <a href="https://www.directferries.co.uk/" > Direct Ferries : </a> https://www.directferries.co.uk/ </li> 
+</ol> </p>
+ 
+     <p> This video gives you good hints and tips when visiting Paris </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUiaR-bZEY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+<h2> Normandy </h2>
+<p> Full  of history and culture, Normandy is home to the D-day beaches of World War Two. There are coastal towns and inner-city places to visit, hosting many historical sights such as Claude Monet's garden and the Bayeux Tapestry. </p> 
+<p> <strong> For Museums and Points Of Interest </strong> </p>
+<p> The top five as rated by the Crazy Tourist </p>
+<p> <ol> <li> <a href="https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/"> White Cliffs of Etretat: </a> https://www.european-traveler.com/france/see-white-chalk-cliffs-arches-etretat-normandy/ </li> 
+ <li> <a href="https://www.ot-montsaintmichel.com/index.htm?lang=en" > Mont Saint-Michel: </a> https://www.ot-montsaintmichel.com/index.htm?lang=en </li> 
+      <li> <a href="http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2.html" > Honfleur: </a> http://en.normandie-tourisme.fr/discover/normandy-must-sees/the-10-top-normandy-must-sees/honfleur-86-2 </li> 
+       <li> <a href="https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/"> The Bayeux Tapestry: </a> https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/ </li>
+  <li> <a href="http://giverny.org/gardens/fcm/visitgb.htm" > Claude Monet's garden </a> http://giverny.org/gardens/fcm/visitgb.htm </li> 
+
+</ol> </p>
   
-  <a href="https://drive.google.com/file/d/1Tp-Fm9Ft3stZ0ggwo-FIe47HzHYnF4v1/view?usp=sharing" download>
-  <img src="https://lh3.googleusercontent.com/6SujQiZ-ZWaPOeo7aqkPlT9POXYE0yrRYYU1rwRdqXb38vSmnvpXzJEfWh2JcdYVjSj_cYFZPoZtcLzhKOgyW5xjZiXd5TWBcbxTxdnrKiUHbrGSJFm3-JuBOzYzYjUym3F14FInWY0kq5xb_ET60hYxNCutm-EuquVZmc8T-OzEysZ54qkkF1P-6GjU-7FFxvAYeoDKhRd3ubzdYj7FxxukJSWPW6FdSd7szevEoxeBxqFlBtaaT_fqFoUk2QJFGFcoQtmnYm9XcCAF-4W1CI3cEEWWVpIVDQvvhFMg0oJ6V8Hooz9i775JRdQgNwjtPbP-UW-__kPTpYjLjkt1XdRaOwSUZsHKmEjXPfJiGGFzOlNf3ICoT0IL012e_SfqRNDntL_v_2X2025uPnybpX-VmQJqQ8EXA0ffQBrp5a-nk2i74_sO8hCYB7O1NRsH8x2Ewil808Yy890lSxgqv7PSPUleCB7GbsnDR8iEEfKowALqg4hvVofpzU4QzqopEMGeEj6_iXqq_x4RUT6gaXmCkMcJ7FUJMd83jspXwdzTxC8_EGM87sem-GSf9X_v0RcvRXUDlO4i0ldhRRZa-kDfn7UmA0pAPWqD8U5lHaHMkMEFPFFwSDlW65NTGKD_Tg5Rk5_Qny4shw0U99Jh0xEOaX9mRu8EWpFjh-AxX5aGj06FxDu2-g=w1500-h1125-no" alt="Weather" height="100">
-</a>
+ <p> <strong> For Restaurants (for foodies) </strong> </p>
+ 
+<p>  The top five as rated by The Lonely Planet </p>
 
-<a href="https://drive.google.com/file/d/17x44xWci-4tXRl_itJ932uoZICl72A7e/view?usp=sharing" download>
-  <img src="https://lh3.googleusercontent.com/Tg5PkDct1n_QRDin2FmcnormJo7SoNRfzfRHSnEvRIAm4XIs7B55CAtsr6cwPdwQC0lA7fb35zw-K-RKYsyMY1WSwqr42wKIF96M-7BBpJNC8u3Ouoxl1MUZz9FHjNKZqCl-a_IgSy6RAxCLTZHCQREuz5W7xlx_pQEISpuYJtzMhUWLagxXxGAMdxUW98U_GbpQ0wkwJzVYzUFZITT184C0IpqZgZHdM3FVoIs0gXJ9ELrDNDaVlO1M67hNjghgwwq95LCelOHrW_an2UpJ3MqD3ICcFCSfxKaYQVTDghbDxs384qsWn9Th4lEqzEfVauwHkx4boGv0hhTh3twpk71t0fnjk5Wd2dil1-ynGvH-CM6MnfCY_djtXcfTDApYk7UIDP58ic7ZqZKK_dP2hUiEhHHhb96FAlUgVHN8c4D0X32YdhnednGXyjOs2qVDsg-lds5oTzaG7Sykn8bHMnrdR-FpCBFmznQ88yGlzIxsk1LeOWIOYe1g2Psh0j_82YEthZj5xquXoNWeMMxVdE5M06zPqft9WxaQFx-JKFVRj3XqjetfxBQvRNTipvcl0FlKsEyvvrm2NolHqqGD1t1IiBojsVFJqTUfMtvY64BHZ6zlyVqWEtNW13qmnGV8_T8NPw_WVS51cMdsflPmnbIsw-Ih5lD2XvpYNs_R7Y4MScFcl-UWpA=w988-h1396-no" alt="Introduction handbook" height="100">
-</a>
+  <p> <ol> <li> <a href="https://www.gill.fr/fr"> Restaurant Gill, Rouen: </a> https://www.gill.fr/fr/ </li> 
+<li> <a href="http://www.calvados-drouin.com/calvadosDROUIN-visitGb.html"> Calvados Christian Drouin, Pont-l’Évêque: </a> http://www.calvados-drouin.com/calvadosDROUIN-visitGb </li> 
+<li> <a href="http://www.restaurant-le-pily.com/"> Restaurant Le Pily, Cherbourg: </a> http://www.restaurant-le-pily.com </li> 
+       <li> <a href="http://www.wildekitchen.net/" > Wilde Kitchen Cookery School, Benoîtville: </a> http://www.wildekitchen.net </li> 
+         <li> <a href="http://www.jeanluc-tartarin.com/">  Restaurant Jean-Luc Tartarin, Le Havre: </a> http://www.jeanluc-tartarin.com  </li> </ol> </p>
+ <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/BQIAACZzJlA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+ 
+<h2> Bordeaux </h2>
+<p> Bordeaux is best known for its vineyards and wine. You can enjoy great French cuisine, coastal walks and many historical sights, such as; the Bordeaux Cathedral and the Place de la Bourse. </p>
+<p> <strong> For Museums and Art </strong> </p>
 
-<p> <sup> <i> All downloads sourced from TES.com </i> </sup> </p>
- <body>
+<p> The top five as rated on Tripadvisor </p>
+
+<p> <ol> <li> <a href="https://www.bordeaux-tourism.co.uk/offre/fiche/place-de-la-bourse/PCUAQU033FS00043l" > Place de la Bourse: </a> https://www.bordeaux-tourism.co.uk/offre/fiche/place-de-la-bourse/PCUAQU033FS00043 </li>
+<li> <a href="https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror" > The Water Mirror: </a> https://www.bordeaux-tourism.co.uk/Discover-Bordeaux/Must-See/Water-mirror </li> 
+        <li> <a href="https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/PCUAQU033FS0002B" > Bordeaux Cathedral: </a> https://www.bordeaux-tourism.co.uk/offre/fiche/cathedrale-saint-andre/ </li> 
+            <li> <a href="https://www.museeduvinbordeaux.com/" >Musée du Vin et du Négoce de Bordeaux: </a> https://www.museeduvinbordeaux.com </li> 
+    <li> <a href="https://www.laciteduvin.com/en" > La Cité du Vin </a> https://www.laciteduvin.com </li> 
+
+</ol> </p>
+                   
+ <p> <strong> For Restaurants, Cafes and Quick Bites </strong> </p>
+<p>  The top five as rated on Tripadvisor 
+<p> <ol> <li> <a href="https://www.blisss-restaurant.com/?utm_source=tripadvisor&utm_medium=referral"> Blisss: </a> https://www.blisss-restaurant.com/ </li> 
+<li> <a href="https://nofa.fr/"> Nofa: </a> https://nofa.fr/ </li>
+ <li> <a href="https://www.ristorantelume.fr/"> Lume: </a> https://www.ristorantelume.fr/ </li> 
+  <li> <a href="https://www.son-restaurant.fr/"> Restaurant Son: </a> https://www.son-restaurant.fr/ </li>
+ <li> <a href="https://www.lechicoula.fr/"> Le Chicoula: </a> https://www.lechicoula.fr/ </li> </ol> </p>
+
+<p> <iframe width="560" height="315" src="https://www.youtube.com/embed/1hcQOXYPejA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
+
+ <body> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
    <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a>  <br>
@@ -42,3 +91,4 @@ Website link: http://www.bbc.co.uk/languages/french/
  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > Famous French places  </a> <br>
   <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> Further study </a>
  </body>
+
