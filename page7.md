@@ -19,6 +19,15 @@
 <img src="https://bbc-uploads.s3.amazonaws.com/2KknodmqJ3pskRtRiSmgfpk7Jk6oja25gkdpS7Df6bSd7JhldmDokR4oRRD.jpg" alt="bbc logo" style="float:right;height:100px;" >
 Website link: http://www.bbc.co.uk/languages/french/  
 <p> BBC </p>
+<br> 
+<p> <h2> Downloads </h2> </p>
+<p> Click on the images below to download more files to use to learn more about greetings and phrases </p>
+<p> <a href="https://drive.google.com/file/d/10gLDSlnqxUu02D-E2hytv2RianewWk2U/view" download>
+  <img src="https://lh3.googleusercontent.com/BK8CCU6mPgkrNi_J47fTgZ0FUIhWHpupQdwTqlt6qAf6lKNHKUTAq9FC-0cuXMREY2NxNOQniPXuZ6JV0tz5CX-TpaJB72ovX5TokSAop29rnptSQHYJpBkmWT230J5x6nZo33hFRvtr49rcX_c7ydeMGK9LMFSnSWwyCqozbCR2vIhU4jlxS8pUukqfwXsXhtr_YnxnC0kaz6Mos3lmN_I3voHBvuh4XnUs_B9Nxm6LmR-0UnMIw0jCrG-u2xPfSKj6FagvtUkWyyM4jTSsDMb-D5-6A7Jk1Y0t1bBkYxdmx2InB6fKYx8Xd5NknskxR4f1KMko6eM9t1YIe1ReDXsiZzYfye6m_p8M6LCIWp_NHL2Q7O9nG-EQeiR7ZJgm-z3sLb_BCIYNbgOxbCncwW3H8p1TYqnB8Vt-ltu71c5a5mgpkF2dYyfs8EPdLx7fAmmtZ3QWcq5gJp0bvuHNqguRhUCtif0VkFF3Z3Xd5wAYqBLvMLeMssF9iItCVIc1PBUWGjEUbMcdIGEHiPAmtdrEonr7xYESyI8wta1niMXultE7R2821o3qzKvUZYYyGzTH6sv3hazhbIXONq6icnvK1jIzwIWCtGOXlEoaI8gU_HbxsxlqfxP6eyFqUj16fiRyMhD35y7d5_q6i8LXx9pOeb6IN65dTqVoAf_Da6JpC9gCanymCA=w1080-h1396-no" alt="PDF" width="100"> </a> 
+ <a href="https://drive.google.com/file/d/1Tp-Fm9Ft3stZ0ggwo-FIe47HzHYnF4v1/view?usp=sharing" download>
+  <img src="https://photos.google.com/share/AF1QipOSteukEq2D9kDsw_NapK6nEbJUIPxI-DXhwb9yHHcba8beGPT8MDJ55KxcHpToig?key=REpLSHJqbmx4ZzU4QjdKbWc2T1p6bWJoNzRQcXdR" alt="Weather"> </a> <a href="https://drive.google.com/file/d/17x44xWci-4tXRl_itJ932uoZICl72A7e/view?usp=sharing" download>
+  <img src="https://photos.google.com/share/AF1QipOUqJoDxbRB4BMKI81wkDV1CoBwHdy1qJAvuEsFY-MfnkYdd9-9ZrHpe1krF645_w?key=TVZNMFFVZjlyMWZjRkNMOTlBN1ljWmVXZmJ1RjZB" alt="Introduction numbers handbook ">
+</a>
  <body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
