@@ -17,7 +17,7 @@
   <br>
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/VyJ3HQRbsag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <p> Tip: A lot of French people in France can actually speak English, or enough to communicate with you in English better than you can probably speak French. However, they prefer it when you make the effort, and might even speak back to you in English if you start the conversation in French. </p>
+<br> <p> Tip: A lot of French people in France can actually speak English, or enough to communicate with you in English better than you can probably speak French. However, they prefer it when you make the effort, and might even speak back to you in English if you start the conversation in French. </p>
  
  
 </p>
