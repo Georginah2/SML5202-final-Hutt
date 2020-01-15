@@ -4,9 +4,8 @@
  <br><p> This page will show you the basics of the French language when you go on holiday. Let's say the big day is in two weeks, that means there's two weeks to memorise key phrases that will help you get by. </p>
  <br>
  <p><i> Fun tip </i> A lot of French people in France can actually speak English, or enough to communicate with you in English better than you can probably speak French. However, they prefer it when you make the effort, and might even speak back to you in English if you start the conversation in French. </p>
- <p> This page will show three videos with an introduction to French; alphabet, numbers and a video on pronunciation. </p>
- <p> The next page will show you greetings and easy phrases to use whilst abroad </p>
- <p> The final page will be all about vocabularly, to become familiar with recognise in shops or restaurants (to avoid any awkward mistakes!) </p>
+ <ol> <li> This page will show three videos with an introduction to French; alphabet, numbers and a video on pronunciation. </li> The next page will show you greetings and easy phrases to use whilst abroad </p>
+<li> The final page will be all about vocabularly, to become familiar with recognise in shops or restaurants (to avoid any awkward mistakes!) </li>
  <br>
  <h2> <strong> Introduction </strong> </h2> 
  <p> The French alphabet is the same as the English alphabet. Watch the video below to see how to pronounce the alphabet. <br>
