@@ -82,10 +82,14 @@
 <iframe src="https://quizlet.com/472298949/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
 <br>
 <h1> Carry on Travels- Travel phrases </h1>
-<br>
+<br> <p> These phrases are the perfect start to getting around in France. From letting the waiter know what you would like in the restaurant to letting someone know you have a problem, or don't understand them. </p>
 <p> <iframe src="https://quizlet.com/474595600/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe> </p>
 <h2> Quiz </h2>
 <iframe src="https://quizlet.com/474595600/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
+<br> 
+<h2> Additional support of French phrases </h2> 
+<p> This video gives a detailed explanation to some very common questions, such as the WIFI, cost in flee markets and asking for things </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gXtkhTGUalY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
