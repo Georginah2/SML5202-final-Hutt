@@ -42,7 +42,7 @@ Website link: http://www.bbc.co.uk/languages/french/
    <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > 3. French greetings </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > 4. French vocabulary </a> <br> 
  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Vocabulary tests  </a> <br> 
-  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Famous French Places  </a> 
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Famous French Places  </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page8.html" > 7. Further study  </a>
  </body>
 
