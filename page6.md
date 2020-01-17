@@ -30,10 +30,12 @@
 <iframe src="https://quizlet.com/474602021/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:0"></iframe>
 
 <br><br>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/" > Homepage </a> <br>   
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
-   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a>  <br>
-  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > French vocabulary </a>  <br>
- <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > Famous French places  </a> <br>
-  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> Further study </a>
+ 
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/" > Homepage </a> <br> 
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > 1. About France </a> <br> 
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > 2. Introduction to French  </a> <br> 
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > 3. French greetings </a> <br>
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page5.html" > 4. French vocabulary </a> <br> 
+ <a  href="https://georginah2.github.io/SML5202-final-Hutt/page6.html" > 5. Vocabulary tests  </a> <br> 
+  <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Famous French Places  </a> 
+  <a  href="https://georginah2.github.io/SML5202-final-Hutt/page8.html" > 7. Further study  </a>
