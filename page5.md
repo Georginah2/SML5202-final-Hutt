@@ -6,8 +6,9 @@
 <h1> Food </h1> 
  <iframe src="https://quizlet.com/472297415/flashcards/embed?i=13p126&x=1jj1" height="500" width="500" style="border:0"></iframe> 
 <h1> Travel </h1>
+<iframe src="https://quizlet.com/474601106/flashcards/embed?i=13p126&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+<h1> Weather </h1>
 
-<h1> Holiday </h1>
 <br>
 <br>
 
@@ -37,7 +38,7 @@
     <td> Where is the beach </td>
    </tr>
  <tr>
-  <td> Il fait du soleil </td>
+  <td> Il y a du soleil </td>
   <td> It's sunny </td>
  </tr>
  <tr>
