@@ -83,7 +83,10 @@
 <br>
 <h1> Carry on Travels- Travel phrases </h1>
 <br>
- <body>
+<p> <iframe src="https://quizlet.com/474595600/flashcards/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe> </p>
+<h2> Quiz </h2>
+<iframe src="https://quizlet.com/474595600/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
+<body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
    <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a>  <br>
