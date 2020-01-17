@@ -35,6 +35,7 @@ Website link: http://www.bbc.co.uk/languages/french/
 
 <p> <sup> <i> All downloads sourced from TES.com </i> </sup> </p>
  <body>
+    <a  href="https://georginah2.github.io/SML5202-final-Hutt/" > Homepage </a> <br>   
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > Introduction to French  </a>  <br>
    <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > French greetings </a>  <br>
