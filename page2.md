@@ -1,5 +1,5 @@
 <body> This page will give you a brief introduction to France! 
-  <h1> Quick French facts </h1>
+  <h1> Quick France facts </h1>
   <ul>
 <p> <li> France is located in Western Europe. It is twice the size of the UK and has a population of just over 62 million. It has one of the world's top 6 economies and is a member of both the European Union and the United Nations.</li> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/EU-France_%28orthographic_projection%29.svg/440px-EU-France_%28orthographic_projection%29.svg.png" alt="France in the World" height="150" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/France_base_map_18_regions.png/1296px-France_base_map_18_regions.png" alt="France in the World" height="150" >
