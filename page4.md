@@ -88,7 +88,7 @@
 <iframe src="https://quizlet.com/474595600/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:3"></iframe>
 <br> 
 <h2> Additional support of French phrases </h2> 
-<p> This video gives a detailed explanation to some very common questions, such as the WIFI, cost in flee markets and asking for things </p>
+<p> This video gives a detailed explanation to some very common questions, such as the WIFI, cost in flee markets and asking for things </p> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gXtkhTGUalY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <body>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > About France </a> <br>
