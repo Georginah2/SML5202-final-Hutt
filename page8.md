@@ -1,4 +1,4 @@
-<h1> Real Genius </h1> 
+<h1> Hungry for more... </h1> 
 <body>
 <p> This page will cover some more websites that are useful if you want to stretch yourself and learn more </p>
   <h2> <a href="https://www.duolingo.com/" > Duolingo </a> </h2> <img src="https://d35aaqx5ub95lt.cloudfront.net/images/logo-with-duo.png" alt="Duolingo logo" style="float:right;width:150px;height:150px;" >
