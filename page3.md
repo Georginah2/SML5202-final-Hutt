@@ -1,4 +1,4 @@
-<h1> <strong> Pretty in-troduction (to the French language) </strong> </h1>
+<h1> <strong> Introduction to the French language </strong> </h1>
 <body> <h2> Background to French </h2>
  <p> French, français, is a Romance language spoken as a first language by around 136 million people worldwide. A total of 500 million speak it as either a first, second, or foreign language. French is a descendant of the Latin language of the Roman Empire, as are national languages such as Italian, Portuguese, Spanish, Romanian and Catalan. As a result of extensive colonial ambitions of France and Belgium, between the 17th and 20th centuries, French was introduced to America, Africa, Polynesia, South-East Asia, and the Caribbean. <sup> <i> source:wikibooks </i> </sup> <p>
 <h2> <strong> Introduction </strong> </h2> 
