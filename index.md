@@ -16,6 +16,8 @@
 <p> </p>
 <h1> Contents </h1> 
 <body>
+  <br> <br>
+   <a  href="https://georginah2.github.io/SML5202-final-Hutt/" > Homepage </a> <br> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page2.html" > 1. About France </a> <br> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page3.html" > 2. Introduction to French  </a> <br> <br>
    <a  href="https://georginah2.github.io/SML5202-final-Hutt/page4.html" > 3. French greetings </a> <br> <br>
