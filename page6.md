@@ -24,10 +24,10 @@
 
 <h2> Weather </h2><br>
 <p> <strong> Matching activity </strong> </p>
-<iframe src="https://quizlet.com/474602021/match/embed?i=13p126&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+<iframe src="https://quizlet.com/474602021/match/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:0"></iframe>
 <br>
 <p>  <strong> Test </strong> </p>
-<iframe src="https://quizlet.com/474602021/test/embed?i=13p126&x=1jj1" height="500" width="100%" style="border:0"></iframe>
+<iframe src="https://quizlet.com/474602021/test/embed?i=13p126&x=1jj1" height="500" width="60%" style="border:0"></iframe>
 
 <br><br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/" > Homepage </a> <br>   
