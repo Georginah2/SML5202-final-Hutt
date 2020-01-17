@@ -1,4 +1,4 @@
-<h1> The adventures of visiting France </h1>
+<h1> <i> Recommmended </i> Places in France to visit </h1>
 <body>
 <p> Paris is not the only place where you can holiday in France. The rich culture of France allows you to immerse yourself in its traditions, even if only for few days or weeks. Let's talk about some places worth visiting in France </p>
 
