@@ -30,12 +30,8 @@
     <h2> Lyon </h2>
     <p> Lyon is the third largest city in France. Known for its cuisine and historical landmarks, part of it is registered as a UNESCO World Heritage site. It has a population of around half a million. </p>
     <p> 
-<div class="container"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG" alt="Lyon Cathedral" height="150" style="float left"> 
- <div class="text-block">
-  <p>Lyon Cathedral: Cathédrale Saint-Jean-Baptiste de Lyon <p>
-  </div>  </div>
-           <i>  </i>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG/440px-007._Photo_prise_depuis_les_toits_de_la_Basilique_Notre-Dame_de_Fourvi%C3%A8re.JPG" alt="Lyon Cathedral" height="150" style="float left"> <i> Lyon Cathedral: Cathédrale Saint-Jean-Baptiste de Lyon </i>
+
 </p>
 <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zTjnQ0XlAc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </p>
