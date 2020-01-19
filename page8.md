@@ -45,4 +45,7 @@ Website link: http://www.bbc.co.uk/languages/french/
   <a  href= "https://georginah2.github.io/SML5202-final-Hutt/page7.html"> 6. Famous French Places  </a> <br>
   <a  href="https://georginah2.github.io/SML5202-final-Hutt/page8.html" > 7. Further study  </a>
  </body>
-
+<br>
+<h2> Sources of information </h2>
+<p> All images and information sourced from Wikipedia.org <br>
+  With thanks to quizlet.com and youtube.com </p>
